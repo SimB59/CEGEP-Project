@@ -1,1 +1,1 @@
-"# CEGEP-Project" 
+This is my final programming project for my last semester in CEGEP. It is a poker tool with hand calculations and gameplay.
